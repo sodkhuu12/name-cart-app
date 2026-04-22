@@ -1,0 +1,182 @@
+[
+  {
+    "id": "card-1",
+    "name": "Бат-Эрдэнэ Болд",
+    "role": "Гүйцэтгэх захирал",
+    "company": "Tech Solutions LLC",
+    "bio": "Технологийн салбарт 15 жилийн туршлагатай, инновацийн шийдлүүдийг хэрэгжүүлдэг мэргэжилтэн.",
+    "phone": "+976 9999 1234",
+    "email": "bat.erdene@techsolutions.mn",
+    "location": "Улаанбаатар хот, Сүхбаатар дүүрэг",
+    "avatarUrl": "https://i.pravatar.cc/300?img=11",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-black via-gray-900 to-purple-950 text-white",
+      "roleClass": "text-white/90",
+      "companyClass": "text-white/70",
+      "bioClass": "text-white/90",
+      "contactItemClass": "bg-white/10 border border-white/20 text-white",
+      "socialPrimaryClass": "bg-white/20 hover:bg-white/30 text-white",
+      "socialSecondaryClass": "bg-white/10 hover:bg-white/20 border border-white/30 text-white"
+    }
+  },
+  {
+    "id": "card-2",
+    "name": "Сарангэрэл Дорж",
+    "role": "Маркетингийн захирал",
+    "company": "Creative Marketing Agency",
+    "bio": "Брэндийг бүтээх, хөгжүүлэх талаар мэргэшсэн. Олон улсын томоохон компаниудтай хамтран ажилласан туршлагатай.",
+    "phone": "+976 8888 5678",
+    "email": "sarangerel.d@creative.mn",
+    "location": "Чингэлтэй дүүрэг, 4-р хороо",
+    "avatarUrl": "https://i.pravatar.cc/300?img=15",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-[#f5e9e2] via-[#e6d3c3] to-[#d6bfa9] text-[#4b2e2e]",
+      "roleClass": "text-[#c084fc]",
+      "companyClass": "text-[#7c5e57]",
+      "bioClass": "text-[#5a3e36]",
+      "contactItemClass": "bg-white/60 border border-white/50 text-[#4b2e2e]",
+      "socialPrimaryClass": "bg-gradient-to-r from-[#c084fc] to-[#d4a373] text-white",
+      "socialSecondaryClass": "bg-gradient-to-r from-[#fbbf24] to-[#d97706] text-white"
+    }
+  },
+  {
+    "id": "card-3",
+    "name": "Ганзориг Төмөр",
+    "role": "IT архитектор",
+    "company": "Digital Systems Inc.",
+    "bio": "Системийн архитектур, клауд технологи, аюулгүй байдлын талаар мэргэшсэн. AWS & Azure сертификаттай.",
+    "phone": "+976 8080 9876",
+    "email": "ganzorig.t@digitalsystems.mn",
+    "location": "Баянзүрх дүүрэг, 20-р хороо",
+    "avatarUrl": "https://i.pravatar.cc/300?img=29",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white",
+      "roleClass": "text-yellow-400",
+      "companyClass": "text-gray-400",
+      "bioClass": "text-gray-200",
+      "contactItemClass": "bg-white/5 border border-white/10 text-white",
+      "socialPrimaryClass": "bg-yellow-400 text-black",
+      "socialSecondaryClass": "bg-white/10 border border-white/30 text-white"
+    }
+  },
+  {
+    "id": "card-4",
+    "name": "Мөнхбаяр Дорж",
+    "role": "Ерөнхий менежер",
+    "company": "Global Trading LLC",
+    "bio": "Олон улсын худалдаа, экспорт импорт, логистикийн удирдлагын талаар 20 жил ажилласан мэргэжилтэн.",
+    "phone": "+976 7777 8899",
+    "email": "munkhbayar@globaltrading.mn",
+    "location": "Баянзүрх дүүрэг, 5-р хороо",
+    "avatarUrl": "https://i.pravatar.cc/300?img=48",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-gray-900 via-purple-900 to-black text-white",
+      "roleClass": "text-white/90",
+      "companyClass": "text-white/70",
+      "bioClass": "text-white/90",
+      "contactItemClass": "bg-white/10 border border-white/20 text-white",
+      "socialPrimaryClass": "bg-white/10 border border-white/30 text-white",
+      "socialSecondaryClass": "bg-white/10 border border-white/30 text-white"
+    }
+  },
+  {
+    "id": "card-5",
+    "name": "Баяртай Түмэнжаргал",
+    "role": "HR захирал",
+    "company": "People Solutions Group",
+    "bio": "Хүний нөөцийн удирдлага, ажилтны хөгжил, компанийн соёлын талаар мэргэшсэн.",
+    "phone": "+976 9696 7890",
+    "email": "bayartai@peoplesolutions.mn",
+    "location": "Хан-Уул дүүрэг",
+    "avatarUrl": "https://i.pravatar.cc/300?img=32",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-black via-gray-900 to-black text-white",
+      "roleClass": "text-red-300",
+      "companyClass": "text-red-300/70",
+      "bioClass": "text-gray-300",
+      "contactItemClass": "bg-white/5 border border-white/10 text-white",
+      "socialPrimaryClass": "bg-red-600 hover:bg-red-700 text-white",
+      "socialSecondaryClass": "bg-gradient-to-r from-red-500 to-red-800 text-white"
+    }
+  },
+  {
+    "id": "card-6",
+    "name": "Тэмүүлэн Жамбал",
+    "role": "Стратеги зөвлөх",
+    "company": "Strategy Advisors LLC",
+    "bio": "Бизнесийн стратеги боловсруулах, өөрчлөлтийн удирдлага, инноваци нэвтрүүлэх талаар мэргэшсэн.",
+    "phone": "+976 8585 3456",
+    "email": "temuulen@strategyadvisors.mn",
+    "location": "Баянгол дүүрэг, 3-р хороо",
+    "avatarUrl": "https://i.pravatar.cc/300?img=7",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-orange-400 via-orange-500 to-pink-500 text-white",
+      "roleClass": "text-white/90",
+      "companyClass": "text-white/80",
+      "bioClass": "text-white",
+      "contactItemClass": "bg-white/10 border border-white/20 text-white",
+      "socialPrimaryClass": "bg-white/20 hover:bg-white/30 text-white",
+      "socialSecondaryClass": "bg-white/20 hover:bg-white/30 text-white"
+    }
+  },
+  {
+    "id": "card-7",
+    "name": "Алтанцэцэг Баяр",
+    "role": "Хөгжүүлэгч",
+    "company": "Software Development Co.",
+    "bio": "Full-stack хөгжүүлэгч, React, Node.js, Python мэргэжилтэн.",
+    "phone": "+976 9898 6543",
+    "email": "altantsetseg@softwaredev.mn",
+    "location": "Сонгинохайрхан дүүрэг",
+    "avatarUrl": "https://i.pravatar.cc/300?img=24",
+    "theme": {
+      "cardClass": "bg-gradient-to-br from-black via-gray-900 to-purple-950 text-white",
+      "roleClass": "text-green-300",
+      "companyClass": "text-gray-400",
+      "bioClass": "text-gray-300",
+      "contactItemClass": "bg-white/5 border border-white/10 text-white",
+      "socialPrimaryClass": "bg-teal-600 hover:bg-teal-700 text-white",
+      "socialSecondaryClass": "bg-gradient-to-r from-purple-500 to-pink-500 text-white"
+    }
+  },
+  {
+    "id": "card-8",
+    "name": "Одгэрэл Мөнхбат",
+    "role": "Бизнесийн зөвлөх",
+    "company": "Business Consulting Group",
+    "bio": "Жижиг дунд бизнесүүдэд зөвлөх үйлчилгээ үзүүлж, тэдний хөгжилд туслах талаар мэргэшсэн. MBA зэрэгтэй.",
+    "phone": "+976 9191 2345",
+    "email": "odgerel.m@consulting.mn",
+    "location": "Хан-Уул дүүрэг, 11-р хороо",
+    "avatarUrl": "https://i.pravatar.cc/300?img=38",
+    "theme": {
+      "cardClass": "bg-gray-100 text-gray-800",
+      "roleClass": "text-green-600",
+      "companyClass": "text-gray-500",
+      "bioClass": "text-gray-700",
+      "contactItemClass": "bg-green-50 border border-green-100 text-gray-700",
+      "socialPrimaryClass": "bg-green-600 hover:bg-green-700 text-white",
+      "socialSecondaryClass": "bg-gradient-to-r from-purple-500 to-pink-500 text-white"
+    }
+  },
+  {
+    "id": "card-9",
+    "name": "Pawel Czerwinski",
+    "role": "full-stack developer",
+    "company": "Portfolio Profile",
+    "bio": "I am a Front-End Developer focused on modern UI systems.",
+    "phone": "+976 99887711",
+    "email": "boldoo@gmail.com",
+    "location": "Ulaanbaatar",
+    "avatarUrl": "https://i.pravatar.cc/300?img=51",
+    "theme": {
+      "cardClass": "bg-gradient-to-b from-black via-gray-900 to-black text-white",
+      "roleClass": "text-gray-300",
+      "companyClass": "text-gray-400",
+      "bioClass": "text-gray-200",
+      "contactItemClass": "bg-white/10 border border-white/10 text-white",
+      "socialPrimaryClass": "bg-white/90 text-black",
+      "socialSecondaryClass": "bg-white/20 text-white"
+    }
+  }
+]
